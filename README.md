@@ -77,7 +77,7 @@ git clone https:://github.com/GeorgeYDesign/Brave-Red.git
 
 Open the project file using either Android Studio or XCode depending on what variant you are attempting to use. You may also link to more resources.
 
-_For more examples, please refer to the [Documentation](https://example.com)_
+_For more examples, please refer to the [Documentation](https://github.com/GeorgeYDesign/Brave-Red/blob/master/README.md)_
 
 
 
