@@ -45,18 +45,14 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+Brave Red is a casual platformer that is avaliable on iOS and Android Operating Systems. It is currently in it's early stages and as time progresses so too will the game.If you would like to give it a go scroll down and read how.
 
-There are many great README templates available on GitHub, however, I didn't find one that really suit my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need.
+Here's what we've been able to do so far;
+* Intuitive Navigation UI
+* Great Player control using on-screen controls
+* Fun map that gets harder the further you get :smile:
 
-Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should element DRY principles to the rest of your life :smile:
-
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue with the tag.
-
-A list of commonly used resources that I find helpful are listed in the acknowledgements.
+Of course, we know that it isn't perfect and we are working tirelessly to make it great. You may also suggest changes by forking this repo and creating a pull request or opening an issue with the tag.
 
 <!-- GETTING STARTED -->
 ## Getting Started
