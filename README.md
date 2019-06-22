@@ -1,10 +1,3 @@
-<!-- PROJECT SHIELDS -->
-[![Build Status][build-shield]]()
-[![Contributors][contributors-shield]]()
-[![MIT License][license-shield]][license-url]
-
-
-
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
@@ -17,6 +10,19 @@
   <p align="center">
     A casual platformer that is available on both iOS and Android Operating Systems!
     <br />
+  </p>
+  <p align="center">
+       <a href="">
+        <img src="https://img.shields.io/circleci/project/github/badges/shields/master.svg" alt="build status">
+       </a>
+       <a href="">
+         <img src="https://img.shields.io/github/contributors/GeorgeYDesign/Brave-Red.svg" alt="contributors">
+       </a>
+       <a href="">
+         <img src="https://img.shields.io/github/license/GeorgeYDesign/Brave-Red.svg" alt="contributors">
+       </a>
+  </p>
+  <p align="center">
     <a href="https://github.com/GeorgeYDesign/Brave-Red/blob/master/README.md"><strong>Explore the docs »</strong></a>
     <br />
     <br />
